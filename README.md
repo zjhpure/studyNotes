@@ -10,4 +10,4 @@ GitHub：
 
 Gitee：
 
-* [java位运算](https://gitee.com/zjhpure/studyNotesy/tree/master/java/bitCalculate/title.md)
+* [java位运算](https://gitee.com/zjhpure/studyNotes/tree/master/java/bitCalculate/title.md)
