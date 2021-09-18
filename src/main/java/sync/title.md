@@ -18,6 +18,12 @@
 
 代码如下：
 
+Gitee：
+
+[两个线程同时访问两个对象的同步方法](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/java/sync/Condition2.java)
+
+GitHub：
+
 [两个线程同时访问两个对象的同步方法](https://github.com/zjhpure/studyNotes/tree/master/src/main/java/sync/Condition2.java)
 
 分析：

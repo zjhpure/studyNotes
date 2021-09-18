@@ -28,6 +28,12 @@
 
 java可以采用BitSet来保存数据，代码如下：
 
+Gitee：
+
+[Bitmap在Java中的应用](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/algorithm/findNum/BitMap.java)
+
+GitHub：
+
 [Bitmap在Java中的应用](https://github.com/zjhpure/studyNotes/tree/master/src/main/algorithm/findNum/BitMap.java)
 
 #### 方案3
