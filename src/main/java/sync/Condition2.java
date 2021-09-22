@@ -26,7 +26,7 @@ public class Condition2 implements Runnable {
             e.printStackTrace();
         }
 
-        System.out.println("线程：" + Thread.currentThread().getName() + "，运行结束");
+        System.out.println("线程名：" + Thread.currentThread().getName() + "，运行结束");
     }
 
     public static void main(String[] args) {
