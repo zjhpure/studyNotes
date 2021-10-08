@@ -18,6 +18,8 @@ GitHub：
 
 * [为什么要用redis而不用map做缓存](https://github.com/zjhpure/studyNotes/tree/master/src/main/cache/redis/title.md)
 
+* [跨库分页方案](https://github.com/zjhpure/studyNotes/tree/master/src/main/db/acrossPage/title.md)
+
 Gitee：
 
 * [java位运算](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/java/bitCalculate/title.md)
@@ -31,3 +33,5 @@ Gitee：
 * [Java源码中的Arrays.sort()原理解析](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/algorithm/sort/title.md)
 
 * [为什么要用redis而不用map做缓存](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/cache/redis/title.md)
+
+* [跨库分页方案](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/db/acrossPage/title.md)
