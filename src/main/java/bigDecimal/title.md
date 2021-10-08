@@ -1,6 +1,6 @@
 ## 公众号(纯洁编程说：chunjie_tech)
 
-## BigDecimal使用
+## java中BigDecimal使用
 
 我们在使用BigDecimal时，使用它的BigDecimal(String)构造器创建对象才有意义，才不会丢失精度。
 
