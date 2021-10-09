@@ -26,6 +26,8 @@ GitHub：
 
 * [跨库分页方案](https://github.com/zjhpure/studyNotes/tree/master/src/main/db/acrossPage/title.md)
 
+* [mysql索引和mongodb索引](https://github.com/zjhpure/studyNotes/tree/master/src/main/db/bIndex/title.md)
+
 Gitee：
 
 * [java位运算](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/java/bitCalculate/title.md)
@@ -47,3 +49,5 @@ Gitee：
 * [为什么要用redis而不用map做缓存](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/cache/redis/title.md)
 
 * [跨库分页方案](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/db/acrossPage/title.md)
+
+* [mysql索引和mongodb索引](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/db/bIndex/title.md)
