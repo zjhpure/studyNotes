@@ -28,6 +28,8 @@ GitHub：
 
 * [mysql索引和mongodb索引](https://github.com/zjhpure/studyNotes/tree/master/src/main/db/bIndex/title.md)
 
+* [like百分号查询的索引问题](https://github.com/zjhpure/studyNotes/tree/master/src/main/db/likeIndex/title.md)
+
 Gitee：
 
 * [java位运算](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/java/bitCalculate/title.md)
@@ -51,3 +53,5 @@ Gitee：
 * [跨库分页方案](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/db/acrossPage/title.md)
 
 * [mysql索引和mongodb索引](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/db/bIndex/title.md)
+
+* [like百分号查询的索引问题](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/db/likeIndex/title.md)
