@@ -58,4 +58,4 @@ Gitee：
 
 * [like百分号查询的索引问题](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/db/likeIndex/title.md)
 
-* [springframework问题](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/db/springframework/title.md)
+* [springframework问题](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/spring/springframework/title.md)
