@@ -32,6 +32,8 @@ GitHub：
 
 * [springframework问题](https://github.com/zjhpure/studyNotes/tree/master/src/main/spring/springframework/title.md)
 
+* [使用分布式的原因](https://github.com/zjhpure/studyNotes/tree/master/src/main/spring/distributed/title.md)
+
 Gitee：
 
 * [java位运算](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/java/bitCalculate/title.md)
@@ -59,3 +61,5 @@ Gitee：
 * [like百分号查询的索引问题](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/db/likeIndex/title.md)
 
 * [springframework问题](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/spring/springframework/title.md)
+
+* [使用分布式的原因](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/spring/distributed/title.md)
