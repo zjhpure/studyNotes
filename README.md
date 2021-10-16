@@ -30,6 +30,8 @@ GitHub：
 
 * [like百分号查询的索引问题](https://github.com/zjhpure/studyNotes/tree/master/src/main/db/likeIndex/title.md)
 
+* [连接池](https://github.com/zjhpure/studyNotes/tree/master/src/main/db/connectionPool/title.md)
+
 * [springframework问题](https://github.com/zjhpure/studyNotes/tree/master/src/main/spring/springframework/title.md)
 
 * [使用分布式的原因](https://github.com/zjhpure/studyNotes/tree/master/src/main/spring/distributed/title.md)
@@ -59,6 +61,8 @@ Gitee：
 * [mysql索引和mongodb索引](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/db/bIndex/title.md)
 
 * [like百分号查询的索引问题](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/db/likeIndex/title.md)
+
+* [连接池](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/db/connectionPool/title.md)
 
 * [springframework问题](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/spring/springframework/title.md)
 
