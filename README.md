@@ -22,7 +22,7 @@ GitHub：
 
 * [java源码中的Arrays.sort()原理解析](https://github.com/zjhpure/studyNotes/tree/master/src/main/algorithm/sort/title.md)
 
-* [为什么要用redis而不用map做缓存](https://github.com/zjhpure/studyNotes/tree/master/src/main/cache/redis/title.md)
+* [redis知识](https://github.com/zjhpure/studyNotes/tree/master/src/main/cache/redis/title.md)
 
 * [跨库分页方案](https://github.com/zjhpure/studyNotes/tree/master/src/main/db/acrossPage/title.md)
 
@@ -56,7 +56,7 @@ Gitee：
 
 * [java源码中的Arrays.sort()原理解析](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/algorithm/sort/title.md)
 
-* [为什么要用redis而不用map做缓存](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/cache/redis/title.md)
+* [redis知识](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/cache/redis/title.md)
 
 * [跨库分页方案](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/db/acrossPage/title.md)
 
