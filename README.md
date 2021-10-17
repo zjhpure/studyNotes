@@ -16,6 +16,8 @@ GitHub：
 
 * [boolean类型变量不能使用is开头](https://github.com/zjhpure/studyNotes/tree/master/src/main/java/booleanVariableUse/title.md)
 
+* [线程](https://github.com/zjhpure/studyNotes/tree/master/src/main/java/thread/title.md)
+
 * [1亿个数中找出最大的100个数(top K问题)](https://github.com/zjhpure/studyNotes/tree/master/src/main/algorithm/topK/title.md)
 
 * [如何在海量数据中快速查找一个数字是否出现](https://github.com/zjhpure/studyNotes/tree/master/src/main/algorithm/findNum/title.md)
@@ -38,6 +40,14 @@ GitHub：
 
 * [transaction事务](https://github.com/zjhpure/studyNotes/tree/master/src/main/spring/transaction/title.md)
 
+* [eureka注册中心](https://github.com/zjhpure/studyNotes/tree/master/src/main/spring/eureka/title.md)
+
+* [gateway网关](https://github.com/zjhpure/studyNotes/tree/master/src/main/spring/gateway/title.md)
+
+* [ribbon负载均衡](https://github.com/zjhpure/studyNotes/tree/master/src/main/spring/ribbon/title.md)
+
+* [feign](https://github.com/zjhpure/studyNotes/tree/master/src/main/spring/feign/title.md)
+
 Gitee：
 
 * [java位运算](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/java/bitCalculate/title.md)
@@ -49,6 +59,8 @@ Gitee：
 * [java中finally的执行时机](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/java/tryFinally/title.md)
 
 * [boolean类型变量不能使用is开头](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/java/booleanVariableUse/title.md)
+
+* [线程](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/java/thread/title.md)
 
 * [1亿个数中找出最大的100个数(top K问题)](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/algorithm/topK/title.md)
 
@@ -71,3 +83,11 @@ Gitee：
 * [使用分布式的原因](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/spring/distributed/title.md)
 
 * [transaction事务](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/spring/transaction/title.md)
+
+* [eureka注册中心](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/spring/eureka/title.md)
+
+* [gateway网关](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/spring/gateway/title.md)
+
+* [ribbon负载均衡](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/spring/ribbon/title.md)
+
+* [feign](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/spring/feign/title.md)
