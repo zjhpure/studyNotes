@@ -48,6 +48,8 @@ GitHub：
 
 * [feign](https://github.com/zjhpure/studyNotes/tree/master/src/main/spring/feign/title.md)
 
+* [分布式锁](https://github.com/zjhpure/studyNotes/tree/master/src/main/distributed/lock/title.md)
+
 Gitee：
 
 * [java位运算](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/java/bitCalculate/title.md)
@@ -91,3 +93,5 @@ Gitee：
 * [ribbon负载均衡](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/spring/ribbon/title.md)
 
 * [feign](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/spring/feign/title.md)
+
+* [分布式锁](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/distributed/lock/title.md)
