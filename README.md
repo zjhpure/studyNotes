@@ -24,7 +24,9 @@ GitHub：
 
 * [java源码中的Arrays.sort()原理解析](https://github.com/zjhpure/studyNotes/tree/master/src/main/algorithm/sort/title.md)
 
-* [redis知识](https://github.com/zjhpure/studyNotes/tree/master/src/main/cache/redis/title.md)
+* [redis知识](https://github.com/zjhpure/studyNotes/tree/master/src/main/middleware/redis/title.md)
+
+* [rabbitmq知识](https://github.com/zjhpure/studyNotes/tree/master/src/main/middleware/rabbitmq/title.md)
 
 * [跨库分页方案](https://github.com/zjhpure/studyNotes/tree/master/src/main/db/acrossPage/title.md)
 
@@ -70,7 +72,9 @@ Gitee：
 
 * [java源码中的Arrays.sort()原理解析](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/algorithm/sort/title.md)
 
-* [redis知识](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/cache/redis/title.md)
+* [redis知识](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/middleware/redis/title.md)
+
+* [rabbitmq知识](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/middleware/rabbitmq/title.md)
 
 * [跨库分页方案](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/db/acrossPage/title.md)
 
