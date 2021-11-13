@@ -18,6 +18,8 @@ GitHub：
 
 * [线程](https://github.com/zjhpure/studyNotes/tree/master/src/main/java/thread/title.md)
 
+* [类加载](https://github.com/zjhpure/studyNotes/tree/master/src/main/java/classLoading/title.md)
+
 * [1亿个数中找出最大的100个数(top K问题)](https://github.com/zjhpure/studyNotes/tree/master/src/main/algorithm/topK/title.md)
 
 * [如何在海量数据中快速查找一个数字是否出现](https://github.com/zjhpure/studyNotes/tree/master/src/main/algorithm/findNum/title.md)
@@ -65,6 +67,8 @@ Gitee：
 * [boolean类型变量不能使用is开头](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/java/booleanVariableUse/title.md)
 
 * [线程](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/java/thread/title.md)
+
+* [类加载](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/java/classLoading/title.md)
 
 * [1亿个数中找出最大的100个数(top K问题)](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/algorithm/topK/title.md)
 
