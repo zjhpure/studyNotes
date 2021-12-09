@@ -1,6 +1,6 @@
 ## 源码路径
 
-/src/main/java/org/pure/studyNotes/java/mulThread/printlnOrder/Main.java
+/src/main/java/org/pure/studyNotes/java/mulThread/printInOrder/Main.java
 
 ## 题目地址(按序打印)
 

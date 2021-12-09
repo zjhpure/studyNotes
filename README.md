@@ -20,7 +20,7 @@ GitHub：
 
 * [类加载](https://github.com/zjhpure/studyNotes/tree/master/src/main/java/classLoading/title.md)
 
-* [按序打印](https://github.com/zjhpure/studyNotes/tree/master/src/main/java/mulThread/printOrder/title.md)
+* [按序打印](https://github.com/zjhpure/studyNotes/tree/master/src/main/java/mulThread/printInOrder/title.md)
 
 * [1亿个数中找出最大的100个数(top K问题)](https://github.com/zjhpure/studyNotes/tree/master/src/main/algorithm/topK/title.md)
 
@@ -72,7 +72,7 @@ Gitee：
 
 * [类加载](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/java/classLoading/title.md)
 
-* [按序打印](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/java/mulThread/printOrder/title.md)
+* [按序打印](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/java/mulThread/printInOrder/title.md)
 
 * [1亿个数中找出最大的100个数(top K问题)](https://gitee.com/zjhpure/studyNotes/tree/master/src/main/algorithm/topK/title.md)
 
